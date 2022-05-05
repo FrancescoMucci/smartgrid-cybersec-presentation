@@ -1,4 +1,4 @@
-# Presentation on *"High-Assurance Smart Grid: A Three-Part Model for Smart Grid Control Systems*
+# Presentation on *"High-Assurance Smart Grid: A Three-Part Model for Smart Grid Control Systems"*
 
 This repository contains the presentation on the paper *"High-Assurance Smart Grid: A Three-Part Model for Smart Grid Control Systems*, T.M. Overman, R.W. Sackman, T.L. Davis, B.S. Cohen, Proceedings of the IEEE, Vol. 99, No. 6, June 2011.
 
